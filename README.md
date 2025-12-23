@@ -66,13 +66,6 @@ neon-snake-arena/
 
 ---
 
-## 🔥 Live Demo
-
-🌍 **Live Website:**
-[https://neon-snake-arena.vercel.app/](https://neon-snake-arena.vercel.app/)
-
----
-
 ## 🎮 Game Controls
 
 | Platform | Controls |
