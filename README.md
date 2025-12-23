@@ -40,17 +40,18 @@
 ---
 
 ## 📂 Project Structure
-
+```
 neon-snake-arena/
-├── index.html
-├── style.css
-├── script.js
-├── game.png
+├── index.html        # Main HTML file
+├── style.css         # Neon UI & responsive styles
+├── script.js         # Game logic & controls
+├── game.png          # Game icon 
 ├── screenshots/
 │   ├── start-game.png
 │   ├── playing-game.png
-│   ├── game-over.png
+│   └── game-over.png
 └── README.md
+```
 
 ---
 
