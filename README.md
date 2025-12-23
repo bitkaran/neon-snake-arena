@@ -39,6 +39,21 @@
 
 ---
 
+## 📂 Project Structure
+
+NeonSnake-Arena/
+│
+├── index.html        # Main HTML file
+├── style.css         # Neon UI & responsive styles
+├── script.js         # Game logic & controls
+├── screenshots/      # Game preview images
+│   ├── start-game.png
+│   ├── playing-game.png
+│   └── game-over.png
+└── README.md
+
+---
+
 ## 🚀 How to Run the Project
 
 1. Clone the repository or download the ZIP
