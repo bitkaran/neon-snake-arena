@@ -41,15 +41,15 @@
 
 ## 📂 Project Structure
 
-NeonSnake-Arena/
-│
-├── index.html        # Main HTML file
-├── style.css         # Neon UI & responsive styles
-├── script.js         # Game logic & controls
-├── screenshots/      # Game preview images
+neon-snake-arena/
+├── index.html
+├── style.css
+├── script.js
+├── game.png
+├── screenshots/
 │   ├── start-game.png
 │   ├── playing-game.png
-│   └── game-over.png
+│   ├── game-over.png
 └── README.md
 
 ---
@@ -72,16 +72,12 @@ NeonSnake-Arena/
 
 ---
 
-## 🎯 Game Controls
+## 🎮 Game Controls
 
-### Desktop
-- ⬆️ Arrow Up
-- ⬇️ Arrow Down
-- ⬅️ Arrow Left
-- ➡️ Arrow Right
-
-### Mobile
-- Tap the on-screen arrow buttons
+| Platform | Controls |
+|--------|----------|
+| Desktop | Arrow Keys (↑ ↓ ← →) |
+| Mobile | On-screen arrow buttons |
 
 ---
 
