@@ -139,7 +139,7 @@ startButton.addEventListener("click", () => {
   modal.style.display = "none";
   intervalId = setInterval(() => {
     render();
-  }, 300);
+  }, 500);
 
   timeIntervalId = setInterval(() => {
     let [min, sec] = time.split("-").map(Number);
@@ -179,7 +179,7 @@ function restartGame() {
   };
   intervalId = setInterval(() => {
     render();
-  }, 300);
+  }, 500);
 }
 
 addEventListener("keydown", (event) => {
@@ -193,3 +193,4 @@ addEventListener("keydown", (event) => {
     direction = "right";
   }
 });
+
